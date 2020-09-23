@@ -1,6 +1,6 @@
-# Lovevery Take Home Project
+# sample Take Home Project
 
-This is the take-home project for engineers at Lovevery, and thanks in advance for taking the time on this.  The
+This is the take-home project for engineers at sample, and thanks in advance for taking the time on this.  The
 goal of this project is to try to simulate some real-world work you'll do as an engineer for us, so that we can
 see you write some code from the comfort of your own computer.
 
@@ -24,9 +24,8 @@ The basic flow is:
 
 What we'd like you to do is allow this app to support gifting.  Instead of a parent buying one of our products for
 their child, we want you to *also* allow anyone to buy a product for any child. Imagine you are someone's aunt or
-uncle and you want to get them a Lovevery product as a gift.
+uncle and you want to get them a sample product as a gift.
 
-There are three basic requirements:
 
 * The gift giver can provide an optional message to the child.
 * The gift giver must know the child's name and birthdate, as well as the child's parent's name, but does not need
